@@ -1,0 +1,4 @@
+product_id,product_name,visible,weight,height,sold,currency,price,image_url,created_at
+1,Product One,1,1.2,30,100,USD,19.99,http://example.com/product1.jpg,2024-10-13 12:00:00
+2,Product Two,1,0.8,20,50,CAD,29.99,http://example.com/product2.jpg,2024-10-13 12:00:00
+

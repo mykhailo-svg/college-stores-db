@@ -1,0 +1,4 @@
+store_code,store_name,store_url,store_country,phone,email,created_at
+S001,Store One,http://storeone.com,USA,1234567890,info@storeone.com,2024-10-13 12:00:00
+S002,Store Two,http://storetwo.com,Canada,0987654321,info@storetwo.com,2024-10-13 12:00:00
+

@@ -1,0 +1,4 @@
+transaction_id,order_id,transaction_type,amount,total,tax,error_code,created_at
+1,1,Credit,39.98,44.97,4.99,0,2024-10-13 12:00:00
+2,2,Debit,29.99,37.98,7.99,0,2024-10-13 12:00:00
+

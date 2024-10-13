@@ -1,0 +1,4 @@
+payment_id,order_id,credit_card_num,credit_card_date,credit_card_cvv,payment_status,created_at
+1,1,4111111111111111,2025-10-01,123,Completed,2024-10-13 12:00:00
+2,2,4111111111111112,2026-11-01,456,Pending,2024-10-13 12:00:00
+

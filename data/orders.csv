@@ -1,0 +1,4 @@
+order_id,customer_id,store_code,order_date,status,quantity,shipping_cost,notes,created_at
+1,1,S001,2024-10-12,Shipped,2,5.99,Fast delivery,2024-10-13 12:00:00
+2,2,S002,2024-10-13,Processing,1,7.99,None,2024-10-13 12:00:00
+

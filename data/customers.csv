@@ -1,0 +1,4 @@
+customer_id,customer_name,ip_address,postal_code,billing_country,billing_city,state_province,created_at
+1,John Doe,192.168.1.1,90210,USA,Los Angeles,CA,2024-10-13 12:00:00
+2,Jane Smith,192.168.1.2,A1A1A1,Canada,Toronto,ON,2024-10-13 12:00:00
+
